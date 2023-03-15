@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -line 'print tf $. % 2 ==1'
+perl -line 'print tf $. % 2 ==l'
